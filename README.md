@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matrixangola
 - 👀 I’m interested in Games, Software built, Food, Game Creation :)
-- 🌱 I’m currently learning C++ :) 
+- 🌱 I’m currently learning Python :) 
 - 💞️ I’m looking to collaborate on Games creations and production :) 
 - 📫 How to reach me via whatsapp: +244931291602...
 
